@@ -1,0 +1,43 @@
+what is java?
+java is high-level object oriented programming language is used to develop software applicationion
+java is independent platform
+
+explain how java file execution?
+java excection is first source code into bytecode to complie the programming
+program to extention is .java it convet bytecode to machine level
+
+what is data type?explain types of datatype?
+datatypedefined what kind of value a variable 
+can store 
+their are 2 datatype
+primitive:-user can defined
+non primitive:-itstore referance of object
+
+int:-it used for intialize the value for integer value
+double:-it can be used for the 
+float:-it is decimal number
+char:-character have only single character
+boolean:-it have only two values True or False
+long:-it use for large namuner of value
+short:-this datatype used for small number to initialize the value
+
+what is variable?explain the variable types?
+variable can be used to store in single value
+their are 4 types
+local variable:-inside the method but outside the class
+static variable:-static is keyword i used for inside the class outside the many method
+instance variable:-inside the class but outside the method
+parameter variable:-parameter variable is inside the method pass the value
+
+what is array?
+array can be stored multiple values  in single variable to perform specific task.
+array is homogenious
+
+what is method?explain types of method?
+method is a block of code to pergorm specific task
+their are 2 types 
+1.pre-defined:-
+2.user-defined:-
+
+what is constructor?
+constructor is used to create multiplevales in one class
